@@ -10,5 +10,6 @@
     <item name="category_layout" type="id"></item>
     <item name="category_arrow_right" type="id"></item>
     <item name="news_list" type="id"></item>
+    <item name="category_title" type="id" />
 
 </resources>
